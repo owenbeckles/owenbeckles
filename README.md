@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-#### Portfolio: owenbeckles.com (under construction)
+#### Portfolio: www.owenbeckles.com (under construction)
 #### About me:
 - 💻 Technologies: Javascript, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
 
