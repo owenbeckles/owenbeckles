@@ -1,5 +1,11 @@
 ### Hi there 👋🏾
-#### Portfolio:
+#### Portfolio: owenbeckles.com (under construction)
+#### About me:
+- 💻 Technologies: Javascript, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
+
+#### 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/becklesowen/
+- Instagram: https://www.instagram.com/oobeckles
 
 <!--
 **owenbeckles/owenbeckles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+#### 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
 - Instagram: https://www.instagram.com/oobeckles
