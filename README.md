@@ -1,11 +1,12 @@
 ### Hi there 👋🏾
-#### Portfolio: http://owenbeckles.com/ (under construction)
+#### Portfolio: http://owenbeckles.com/
 ####  🧑🏾‍🦱 About me:
 - 💻 Technologies: Javascript, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
 
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
 - Instagram: https://www.instagram.com/oobeckles
+- AngelList: https://angel.co/u/owen-beckles
 - Email: becklesoweno@gmail.com
 
 <!--
