@@ -3,6 +3,8 @@
 ####  🧑🏾‍🦱 About me:
 - 💻 Technologies: Javascript, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
 
+#### 🔭 I’m currently working on Covid-Bot, a chatbot that provides the user with essential information regarding Covid-19.
+
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
 - Instagram: https://www.instagram.com/oobeckles
