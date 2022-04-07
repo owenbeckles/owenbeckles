@@ -1,10 +1,10 @@
 ### Hi there 👋🏾
 #### Portfolio: http://owenbeckles.com/
 ####  🧑🏾‍🦱 About me:
-- 👨🏾‍💻 Associate Software Engineer at Puppet
-- 💻 Technologies: Javascript, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
+- 👨🏾‍💻 Associate Software Engineer at [Puppet](https://puppet.com/)
+- 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
 
-#### 🔭 I’m currently working on Covid-Bot, a chatbot that provides the user with essential information regarding Covid-19.
+#### 🌱 I’m currently learning Ruby and Terraform!
 
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
