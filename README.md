@@ -1,10 +1,10 @@
 ### Hi there 👋🏾
 #### Portfolio: http://owenbeckles.com/
 ####  🧑🏾‍🦱 About me:
-- 👨🏾‍💻 Associate Software Engineer at [Puppet](https://puppet.com/)
+- 👨🏾‍💻 Associate Software Engineer at [Puppet by Perforce](https://puppet.com/)
 - 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
 
-#### 🌱 I’m currently learning Ruby and Terraform!
+#### 🌱 I’m currently studying for the AWS Certified Cloud Practicioner Certification Exam!
 
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
