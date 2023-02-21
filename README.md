@@ -4,7 +4,7 @@
 - 👨🏾‍💻 Associate Software Engineer at [Puppet by Perforce](https://puppet.com/)
 - 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Git, Docker
 
-#### 🌱 I’m currently studying for the AWS Certified Cloud Practicioner Certification Exam, and learning Typescript!
+#### 🌱 I’m currently learning Swift to dive into iOS development!
 
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
