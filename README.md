@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
-#### Portfolio: http://owenbeckles.com/
+#### Portfolio: https://owenbeckles.dev/
 ####  🧑🏾‍🦱 About me:
-- 👨🏾‍💻 Associate Software Engineer at [Puppet by Perforce](https://puppet.com/)
+- 👨🏾‍💻 Associate Software Engineer at [Puppet](https://puppet.com/)
 - 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Git, Docker
 
 #### 🌱 I’m currently learning Swift to dive into iOS development!
