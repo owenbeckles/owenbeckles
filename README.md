@@ -2,7 +2,7 @@
 #### Portfolio: https://owenbeckles.dev/
 ####  🧑🏾‍🦱 About me:
 - 👨🏾‍💻 Associate Software Engineer at [Puppet](https://puppet.com/)
-- 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Git, Docker
+- 💻 Technologies: Javascript, Typescript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Git, Docker
 
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
