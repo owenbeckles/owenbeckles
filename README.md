@@ -1,8 +1,5 @@
-### Hi there 👋🏾
+#### 👨🏾‍💻 Software Engineer at [Puppet](https://puppet.com/)
 #### Portfolio: https://owenbeckles.dev/
-####  🧑🏾‍🦱 About me:
-- 👨🏾‍💻 Software Engineer at [Puppet](https://puppet.com/)
-- 💻 Technologies: Javascript, Typescript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Git, Docker
 
 ####  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/becklesowen/
